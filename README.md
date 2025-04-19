@@ -2,8 +2,8 @@
 <!-- <h3 align="center">B.Tech CSE student</h3> -->
 <h2>Leetcode info</h2>
 <p align="center">
-<img src="https://github.com/Mamta06102004/Mamta06102004/blob/main/50days.gif" height="100" alt="50days Badge" />
-<img src="https://github.com/Mamta06102004/Mamta06102004/blob/main/marchbadge.gif" height="100" alt="March Badge" />
+<img src="https://github.com/Mamta06102004/Mamta06102004/blob/main/50days.gif" height="180" alt="50days Badge" />
+<img src="https://github.com/Mamta06102004/Mamta06102004/blob/main/marchbadge.gif" height="180" alt="March Badge" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
